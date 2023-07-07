@@ -1,0 +1,2 @@
+* This is a small project
+  The goal is to help write line-oriented text editing code in elisp.
